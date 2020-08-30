@@ -9123,7 +9123,7 @@ normal work you'd do.
 Similar to the tech debt question, this helps you identify any pain points with the company.
 Additionally, it can be a great way to show how you'd be an asset to the team.<br>
 
-For Example, if they mention they have problem X, and you've solved that in the past,
+For example, if they mention they have problem X, and you've solved that in the past,
 you can show how you'd be able to mitigate that problem.
 </b></details>
 
