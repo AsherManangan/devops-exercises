@@ -270,7 +270,7 @@ One can argue whether it's per company definition or a global one but at least a
 
 <details>
 <summary>What is "infrastructure as code"? What implementation of IAC are you familiar with?</summary><br><b>
-	IAC (infrastructure as code) is a declerative approach of defining infrastructure or architecture of a system. Some implementations are ARM templates for Azure and Terraform that can work across multiple cloud providers. 
+	IAC (infrastructure as code) is a declerative approach of defining infrastructure or architecture of a system. Some iplementations are ARM templates for Azure and Terraform that can work across multiple cloud providers. 
 </b></details>
 
 <details>
@@ -9123,7 +9123,7 @@ normal work you'd do.
 Similar to the tech debt question, this helps you identify any pain points with the company.
 Additionally, it can be a great way to show how you'd be an asset to the team.<br>
 
-For Example, if they mention they have problem X, and you've solved that in the past,
+For example, if they mention they have problem X, and you've solved that in the past,
 you can show how you'd be able to mitigate that problem.
 </b></details>
 
